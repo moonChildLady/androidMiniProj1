@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mini Card Game</string>
+    <string name="next_number">Press Me Please</string>
+    <string name="round_time">Round x 0 times</string>
+    <string name="start_get_point">$</string>
+    <string name="start_total_points">0</string>
+    <string name="total_points">Total Points</string>
+    <string name="get_points">Get</string>
+</resources>
