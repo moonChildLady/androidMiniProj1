@@ -13,3 +13,8 @@ array.
 he/she wins 20 points. If a player gets a pair of 10, he/she wins 10 points. If a player
 gets any other pairs of cards, he/she wins 5 point. If a player gets one A, he/she get 2
 points. Otherwise, he/she loses 1 point.
+
+### Screenshot
+| ![demo1.png](https://github.com/moonChildLady/androidMiniProj1/blob/main/screenshot/demo1.png?raw=true) | 
+|:--:| 
+| *Screenshot* |
